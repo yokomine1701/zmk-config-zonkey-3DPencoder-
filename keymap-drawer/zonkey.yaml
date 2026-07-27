@@ -120,8 +120,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT ARROW
-  - DOWN ARROW
+  - '{'
+  - '}'
   - RIGHT ARROW
   - LCTRL
   - LEFT WIN
