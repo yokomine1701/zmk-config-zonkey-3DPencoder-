@@ -76,8 +76,8 @@ layers:
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - {t: ;, s: KP PLUS}
-  - {t: '''', s: '"'}
-  - {t: \, s: '~'}
+  - '['
+  - ']'
   - ENTER
   - {t: ESC, h: LCTL}
   - LEFT WIN
