@@ -62,10 +62,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LANGUAGE 2
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
+  - LEFT ARROW
+  - DOWN ARROW
+  - UP ARROW
+  - RIGHT ARROW
   - ENTER
   - LEFT SHIFT
   - {t: ▽, type: trans}
