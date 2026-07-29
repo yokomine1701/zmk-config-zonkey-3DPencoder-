@@ -40,9 +40,9 @@ layers:
   - LEFT ALT
   - {t: LANG2, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: LANGUAGE 1, h: '1'}
-  - BACKSPACE
-  - ENTER
+  - {t: SPACE, h: '1'}
+  - {t: SPACE, h: '2'}
+  - {t: LANGUAGE 1, h: ENTER}
   - DEL
   '1':
   - CAPSLOCK
