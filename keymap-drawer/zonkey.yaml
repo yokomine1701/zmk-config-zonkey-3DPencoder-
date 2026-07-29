@@ -99,7 +99,7 @@ layers:
   - Sft+8
   - Sft+9
   - Sft+0
-  - {t: ▽, type: trans}
+  - Ctl+TAB
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
