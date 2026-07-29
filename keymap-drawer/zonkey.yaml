@@ -38,11 +38,11 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: LANG2, h: '3'}
+  - {t: LANG2, h: LEFT ALT}
   - {t: SPACE, h: '2'}
   - {t: SPACE, h: '1'}
   - {t: SPACE, h: '2'}
-  - {t: LANGUAGE 1, h: ENTER}
+  - {t: LANGUAGE 1, h: RIGHT ALT}
   - DEL
   '1':
   - '1'
