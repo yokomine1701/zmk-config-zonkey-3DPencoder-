@@ -150,10 +150,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - Gui+Ctl+LEFT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - {t: ▽, type: trans}
@@ -164,8 +164,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+9
+  - Sft+0
   - {t: ▽, type: trans}
   - LCTRL
   - LEFT WIN
