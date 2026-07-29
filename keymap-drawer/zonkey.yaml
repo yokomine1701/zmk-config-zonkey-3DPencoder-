@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - {t: A, h: LEFT SHIFT}
+  - {t: A, h: LEFT CONTROL}
   - S
   - D
   - F
@@ -38,9 +38,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT HENKAN, h: '3'}
+  - {t: LANG2, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT MUHENKAN, h: '1'}
+  - {t: LANGUAGE 1, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
