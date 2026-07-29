@@ -23,7 +23,7 @@ layers:
   - K
   - L
   - ;
-  - LEFT SHIFT
+  - Sft+LCTRL
   - {t: Z, h: LEFT SHIFT}
   - X
   - {t: C, h: '6'}
@@ -36,8 +36,8 @@ layers:
   - .
   - /
   - LCTRL
+  - ESCAPE
   - LEFT WIN
-  - LEFT ALT
   - {t: LANG2, h: LEFT ALT}
   - {t: SPACE, h: '2'}
   - {t: SPACE, h: '1'}
