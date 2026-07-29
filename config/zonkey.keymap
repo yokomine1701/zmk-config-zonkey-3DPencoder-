@@ -234,7 +234,7 @@
 
             bindings = <
 &kp LS(N1)      &kp LS(NUMBER_2)  &kp LS(N3)    &kp LS(NUMBER_4)  &kp LS(N5)                                 &kp LS(NUMBER_6)  &kp LS(N7)  &kp LS(N8)      &kp LS(N9)       &kp LS(N0)
-&trans          &trans            &trans        &trans            &trans       &trans                &trans  &trans            &trans      &trans          &kp UP_ARROW     &trans
+&kp LC(TAB)     &trans            &trans        &trans            &trans       &trans                &trans  &trans            &trans      &trans          &kp UP_ARROW     &trans
 &kp LEFT_SHIFT  &trans            &trans        &trans            &trans       &trans                &trans  &trans            &trans      &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp RIGHT_ARROW
 &kp LCTRL       &kp LEFT_WIN      &kp LEFT_ALT  &lt 3 INT_HENKAN  &lt 2 SPACE  &lt 1 INT_MUHENKAN            &kp BACKSPACE     &kp ENTER                                                     &kp DEL
             >;
